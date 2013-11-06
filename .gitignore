@@ -1,5 +1,7 @@
 *.class
 
+*.bluej
+
 # Package Files #
 *.jar
 *.war
