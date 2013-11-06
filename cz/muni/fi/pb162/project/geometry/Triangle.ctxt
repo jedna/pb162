@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=a\ b\ c
-comment0.target=Triangle(Vertex2D,\ Vertex2D,\ Vertex2D)
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Triangle\r\n\ \r\n\ @param\ Vertex2D\ vertex\ A\r\n\ @param\ Vertex2D\ vertex\ B\r\n\ @param\ Vertex2D\ vertex\ C\r\n
-comment1.params=
-comment1.target=boolean\ isEquilateral()
-comment1.text=\r\n\ Method\ to\ tell\ whether\ triangle\ is\ equilateral\ or\ not\r\n\ \r\n\ @return\ boolean\ Result\ \r\n
-numComments=2

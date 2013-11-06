@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.params=vertices
-comment0.target=ArrayPolygon(Vertex2D[])
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayPolygon\r\n\ \r\n\ @param\ vertices\ array\ of\ vertices\r\n\ @throws\ IllegalArgumentException\ if\ array\ is\ null\ or\ contains\ null\ pointer\r\n
-comment1.params=index
-comment1.target=Vertex2D\ getVertex(int)
-comment2.params=
-comment2.target=int\ getNumVertices()
-numComments=3

@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=Demo()
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Demo\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\r\n\ Main\ method,\ prints\ out\ coordinates\ of\ triangle\ instatinated\ from\ Triangle\ class\r\n\ \r\n\ @param\ String[]\ args\ \ \ \ \ Command\ line\ arguments\r\n
-numComments=2
