@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=solidObject
+comment0.target=void\ printMeasurement(Solid)
+comment0.text=\r\n\ Prints\ info\ about\ solid\ object,\ its\ perimeter\ and\ area\r\n\ \r\n\ @param\ solidObject\ object\r\n
+comment1.params=measurableObject
+comment1.target=void\ printMeasurement(Measurable)
+comment1.text=\r\n\ Prints\ info\ about\ measurable\ object\ and\ its\ perimeter\r\n\ \r\n\ @param\ measurableObject\ object\r\n
+numComments=2

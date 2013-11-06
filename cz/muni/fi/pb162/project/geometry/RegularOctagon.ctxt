@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=center\ edgeLength
+comment0.target=RegularOctagon(Vertex2D,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RegularOctagon\r\n\ \r\n\ @param\ Vertex2D\ center\ of\ polygon\r\n\ @param\ double\ edge\ length\r\n
+numComments=1

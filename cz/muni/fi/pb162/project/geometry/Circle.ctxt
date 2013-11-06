@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Circle()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n
+comment1.params=center\ radius
+comment1.target=Circle(Vertex2D,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n\ \r\n\ @param\ Vertex2D\ center\ of\ circle\r\n\ @param\ double\ radius\ of\ circle\r\n
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=\r\n\ Getter\ for\ radius\ value\r\n\ \r\n\ @return\ double\ radius\ \r\n
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=double\ getLength()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ String\ representation\ of\ class\ (overloaded)\r\n\ \r\n\ @return\ String\ Text\r\n
+numComments=6

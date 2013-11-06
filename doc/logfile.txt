@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_07\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;E:\Projects\Java\pb162-2012
+-d
+E:\Projects\Java\pb162-2012\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+E:\Projects\Java\pb162-2012\cz\muni\fi\pb162\project\geometry\LabeledPolygon.java
+<---- end of javadoc command ---->
+Loading source file E:\Projects\Java\pb162-2012\cz\muni\fi\pb162\project\geometry\LabeledPolygon.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_07
+Building tree for all the packages and classes...
+Generating E:\Projects\Java\pb162-2012\doc\cz\muni\fi\pb162\project\geometry\LabeledPolygon.html...
+E:\Projects\Java\pb162-2012\cz\muni\fi\pb162\project\geometry\LabeledPolygon.java:37: warning - @param argument "vertex" is not a parameter name.
+E:\Projects\Java\pb162-2012\cz\muni\fi\pb162\project\geometry\LabeledPolygon.java:70: warning - @param argument "vertex" is not a parameter name.
+Generating E:\Projects\Java\pb162-2012\doc\cz\muni\fi\pb162\project\geometry\package-frame.html...
+Generating E:\Projects\Java\pb162-2012\doc\cz\muni\fi\pb162\project\geometry\package-summary.html...
+Generating E:\Projects\Java\pb162-2012\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating E:\Projects\Java\pb162-2012\doc\allclasses-frame.html...
+Generating E:\Projects\Java\pb162-2012\doc\allclasses-noframe.html...
+Generating E:\Projects\Java\pb162-2012\doc\index.html...
+Generating E:\Projects\Java\pb162-2012\doc\stylesheet.css...
+2 warnings
